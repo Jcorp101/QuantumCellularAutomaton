@@ -11,4 +11,4 @@ SecondaryAnalysis produces a small number of additional graphs, dealing with rel
 
 
 ## Videos
-A small number of short videos are presented in /videos demonstrating the diffusion effects of the Quantum Walk for a number of different cases.
+A small number of short videos are presented in /videos demonstrating the diffusion effects of the Quantum Walk for a curated selection of different cases.
